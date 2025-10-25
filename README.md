@@ -1,1 +1,1 @@
-https://baraah-portfolio.netlify.app/
+https://baraahportfolio.netlify.app/
